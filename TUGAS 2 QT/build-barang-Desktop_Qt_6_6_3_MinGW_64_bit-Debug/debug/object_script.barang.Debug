@@ -1,0 +1,13 @@
+debug/formbarang.o
+debug/formmitra.o
+debug/formpesanan.o
+debug/formretur.o
+debug/formslippembayaran.o
+debug/main.o
+debug/formutama.o
+debug/moc_formbarang.o
+debug/moc_formmitra.o
+debug/moc_formpesanan.o
+debug/moc_formretur.o
+debug/moc_formslippembayaran.o
+debug/moc_formutama.o

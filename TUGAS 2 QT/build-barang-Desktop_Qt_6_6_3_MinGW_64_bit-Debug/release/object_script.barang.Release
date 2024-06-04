@@ -1,0 +1,13 @@
+release/formbarang.o
+release/formmitra.o
+release/formpesanan.o
+release/formretur.o
+release/formslippembayaran.o
+release/main.o
+release/formutama.o
+release/moc_formbarang.o
+release/moc_formmitra.o
+release/moc_formpesanan.o
+release/moc_formretur.o
+release/moc_formslippembayaran.o
+release/moc_formutama.o
